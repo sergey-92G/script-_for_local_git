@@ -81,11 +81,6 @@
    ```bash
    cd <project-folder>
    ```
-3. Установите зависимости:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Запуск
 Запустите скрипт:
 ```bash
